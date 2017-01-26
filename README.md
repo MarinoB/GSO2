@@ -10,3 +10,5 @@ Stærsta gagnasafn íslands er öruglega mbl.is en stærsta gagnasafn í heimi e
 Skráarsnið:
 Rafræn gögn eru eitthvað sem þú getur ekki haldið í td. Bankareykningurinn þinn er rafrænn en þegar þú tekur út peninginn þá er hann orðinn stafrænn.
 Þetta geta samt verið sömugögnin en verið á sitthvoru forminu á stafrænu eða rafrænu td. Bíómynd: ef þú ert með hana á disk þá er hún stafræn en ef þú downloadar henni eða streamar hana þá er hún rafræn, peningar: ef peningarnir eru inná bankabók þá eru þeir rafrænir en ef þú tekur þá út í hraðbanka þá eru þeir stafrænir.
+Lokaorð:
+Allt í dag er orðið að rafrænu og stafrænt fer minkandi og við getum bara beðið og séð hvort það er gott eða slæmt.
